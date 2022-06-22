@@ -1,6 +1,6 @@
 # Arch setup with BSPWM
 
-This script aims to setup my environment. If you want to use it, changes should be made to fit your hardware. 
+This script aims to setup  environment. If you want to use it, changes should be made to fit your hardware. 
 
 ![plot](screenshot.png?raw=true)
 
@@ -40,3 +40,6 @@ Your root password will be requested.
 - Shift + Print: prints from selected area and saves at the same folder;
 - Ctrl + Shift + Print: prints selected area to clipboard;
 - All the defaults from BSPWM and sxhkd;
+
+
+### credit goes to : Vicente Santos
