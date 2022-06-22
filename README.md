@@ -40,4 +40,3 @@ Your root password will be requested.
 - Shift + Print: prints from selected area and saves at the same folder;
 - Ctrl + Shift + Print: prints selected area to clipboard;
 - All the defaults from BSPWM and sxhkd;
-
